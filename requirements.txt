@@ -1,0 +1,5 @@
+Pillow
+exifread
+ffmpeg-python
+tqdm
+sqlite3
